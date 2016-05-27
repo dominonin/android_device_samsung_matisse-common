@@ -21,7 +21,7 @@
     "branch": "master"
   },
   {
-    "repository": "DirtyUnicorns/android_hardware_samsung",
+    "repository": "Cyanogenmod/android_hardware_samsung",
     "target_path": "hardware/samsung",
     "branch": "m-caf"
   }
